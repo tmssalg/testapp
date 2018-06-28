@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.ventseek.mobileapp",
     "sha256_cert_fingerprints":
-    ["45:D7:AB:9D:AD:91:2D:D0:39:40:10:80:D8:33:18:78:41:59:3B:9A:6E:12:5E:4A:6D:74:5E:4C:B9:50:FF:BB"]
+    ["45:D7:AB:9D:AD:91:2D:D0:39:40:10:80:D8:33:18:78:41:59:3B:9A:6E:12:5E:4A:6D:74:5E:4C:B9:50:FF:BB",
+	 "9D:33:49:E5:96:48:F3:D6:E9:17:16:12:FA:FA:31:E0:A0:8F:0D:E7:CA:43:26:23:24:4F:7E:86:AA:B8:8D:34"]
   }
 }]
